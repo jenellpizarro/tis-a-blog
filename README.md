@@ -84,5 +84,3 @@ https://user-images.githubusercontent.com/3611928/152727802-102ec296-41c8-446d-9
 
 [alt: video walkthrough of adding a new blog post]
 
-
-So much change. Very wow
